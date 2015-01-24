@@ -1,5 +1,5 @@
 #!/bin/sh
-FILE='students.txt'
+FILE='setup/students.txt'
 while read line;
 do
 	fn=`echo $line | grep -v "#"`
