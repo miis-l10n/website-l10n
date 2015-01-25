@@ -5,7 +5,7 @@ Website Localization
 
 | What's due                       | Due Date                |
 | -------------------------------- | :-----------------------|
-| TBD                              | Mon. 2/2/15             |
+| [Download Sublime and command line tutorial](01_version_control/Homework.md)                             | Mon. 2/2/15             |
 | TBD                              | Mon. 2/9/15             |
 | TBD                              | Mon. 2/16/15            |
 | TBD                              | Mon. 2/23/15            |
