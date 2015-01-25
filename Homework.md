@@ -12,7 +12,6 @@ Website Localization
 | TBD                              | Mon. 3/2/15             |
 | TBD                              | Mon. 3/9/15             |
 | TBD                              | Mon. 3/16/15            |
-| TBD                              | Mon. 3/16/15            |
 | TBD                              | Mon. 3/23/15            |
 | TBD                              | Mon. 3/30/15            |
 | TBD                              | Mon. 4/6/15             |
