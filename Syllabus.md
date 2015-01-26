@@ -1,8 +1,36 @@
-Website Localization
+TRLM 8635A - Website Localization
 ============================
 
 ###Syllabus
-Lesson Topics WILL change as the course progresses. 
+
+**Instructor:** Nathan Suitter  
+**Email:** TBD  
+**Location:** Morse B104  
+**Office Hours:** TBD  
+
+The purpose of this course is to familiarize students with localization in a web development envirmonment. The role that we'd like to focus on is that of a localization project manager at web application company. 
+
+We will favor hands-on learning, with the priority being similar to what it is "in the wild"--to ship software. The hands-on style of this course will put students in situations that require critical thinking, risk mitigation skills and solid knowledge of the web localization industry--all of which they can hope to hone throughout this class.
+
+Specifically, we will be covering the following topics: version control, how to use the Unix-based command line, HTML5, CSS3, JavaScript, how to localize a ruby app, continuous localization strategies, localization testing, and how to fit localization into the agile framework.
+
+The work will be split into weekly assignments, in-class quizzes and a final project. Students are expected to complete their assignments and actively participate in class.
+
+###Grading
+
+**Grades are based on:**  
+- Weekly assessments (50%)  
+- Quizzes (10%)  
+- Participation and attendance (10%)  
+- Final projects (30%)  
+
+**Grading breakdown:**  
+- 100% (A+) - 93% (A)  
+- 92% (A–) - 83% (B)  
+- 82% (B– and below)  
+
+
+Lesson topics are subject to change as the course progresses. 
 
 | Lesson  | Category| Topic| Date|
 | ------ |:--------------------------------------------|:-------------------------------|:-----------------------|
