@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 function green(){
   for i; do
