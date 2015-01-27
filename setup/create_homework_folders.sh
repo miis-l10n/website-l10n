@@ -2,9 +2,9 @@
 
 source setup/colorize.sh
 
-ls -d students/* | while read student; do
+ls -d groups/* | while read group; do
 	grep "\/" Homework.md | grep -v "Final Project" | sed -e "s/.* | Mon. \([^ ]*\).*/homework-due-\1/" -e "s/\//-/g" | while read hw; do
-		dir=$student/$hw
+		dir=$group/$hw
 		if [[ -d $dir ]]; then
 			string='Already existing'
 		else
