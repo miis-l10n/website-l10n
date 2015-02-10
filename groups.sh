@@ -3,7 +3,7 @@ Group_02
 Group_03
 Group_04
 Group_05
-Group_06
+6_Flags
 Group_07
 Group_08
 Group_09
