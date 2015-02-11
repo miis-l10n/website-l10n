@@ -3,7 +3,7 @@ blue_sharks
 Group_03
 git_your_code_on
 codeminions
-Group_06
+6_Flags
 Get_a_name
 Group_08
 Go_Gitters
