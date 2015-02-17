@@ -5,6 +5,6 @@ git_your_code_on
 codeminions
 6_Flags
 Get_a_name
-Group_08
+Onion_Dips
 Go_Gitters
 Group_10
