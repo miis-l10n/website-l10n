@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Cash Register</title>
+	<link rel="stylesheet" href="cash-register.css">
+</head>
+
+<style>
+
+.errorMessage {
+	text-align: center;
+	color: crimson;
+}
+
+</style>
+
+<div class="register">
+	<div class="ticket">
+		<h1>Dolla Dolla Bills</h1>
+
+		<ul class="entries">
+			
+		</ul>
+		<footer>
+			<p>Total</p>
+			<p class="total"Count"><span>$</span><span class="total"">0.00</span></p>
+		</footer>
+	</div>
+	<form>
+		<input placeholder="Item Cost" autofocus=""/>
+	</form>
+	<div class="errorMessage" hidden="">* Please enter a number</div>
+
+</div>
+
+<script src="cash-register.js"></script>
+
+<body>
+</body>
+</html>
