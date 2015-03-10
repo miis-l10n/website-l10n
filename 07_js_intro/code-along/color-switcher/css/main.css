@@ -1,0 +1,41 @@
+* {
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: Avenir;
+}
+
+li {
+  border: 2px solid black;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.green {
+  background-color: green;
+}
+
+.salmon {
+  background-color: salmon;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.teal {
+  background-color: teal;
+}
