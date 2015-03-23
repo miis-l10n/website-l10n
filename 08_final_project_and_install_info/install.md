@@ -69,7 +69,7 @@ application.
 
 ##Windows Users
 
-1. __Download .iso file from Dropbox__
+1. __Download .iso file from the [Ubuntu Site](www.ubuntu.com/download/desktop)__
 
 2. __Install VirtualBox__
   * https://www.virtualbox.org/wiki/Downloads
