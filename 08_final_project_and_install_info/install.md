@@ -28,6 +28,7 @@ application. It can be found in Applications/Utilities.
 
 1. __Install Homebrew__
 	* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+	* If you see something like ```It appears Homebrew is already installed.``` you can move on to the next step
 	* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
 
 2.	__Install RVM with Ruby__
@@ -65,9 +66,16 @@ application.
 
 2. __Install git__
   * ```sudo apt-get install git```
+
+3. __Cofigure Git__
+  * ```git config --global user.name yourUserName```
+	Replace yourUserName with your actual github username
+  * ```git config --global user.email "email@example.com"```
+	Replace email@example.com with your actual email address
   
 3. __Install curl__
   * ```sudo apt-get install curl```
+	You might see something like ```curl is already the newest version.``` in which case curl is already installed so you can move to the next step
 
 4. __Install RVM__
   * ```\curl -L https://get.rvm.io | bash -s stable --ruby --autolibs=enable --auto-dotfiles```
