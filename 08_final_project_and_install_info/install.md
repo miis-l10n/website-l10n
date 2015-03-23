@@ -12,7 +12,7 @@ application. It can be found in Applications/Utilities.
 	* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 	* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
 
-2.	__Install RVM with Ruby 2.1.3__
+2.	__Install RVM with Ruby__
   	* ```\curl -L https://get.rvm.io | bash -s stable --ruby```
 
 3.	__Restart Your Terminal__
@@ -44,15 +44,18 @@ application.
 
 1. __Open a terminal window__
   * http://askubuntu.com/questions/196212/how-do-you-open-a-command-line
+
+2. __Install git__
+  * ```sudo apt-get install git```
   
-2. __Install curl__
+3. __Install curl__
   * ```sudo apt-get install curl```
 
-3. __Install RVM__
+4. __Install RVM__
   * ```\curl -L https://get.rvm.io | bash -s stable --ruby```
   * The backslash in font of "curl" is not a typo.
   *	Close and reopen terminal
-4. __Make sure the latest versions of RVM and Ruby were installed__
+5. __Make sure the latest versions of RVM and Ruby were installed__
 	*	run the commands below:
 		*	For RVM
 			*	```rvm -v```
@@ -61,15 +64,17 @@ application.
 
 			*	```ruby -v```
 				You should get ruby 2.1.0  or higher.
+			* If you see ```The program 'ruby' can be found in the following packages:```
+				Follow the instructions in the answer in [this post]( http://stackoverflow.com/questions/9056008/installed-ruby-1-9-3-with-rvm-but-command-line-doesnt-show-ruby-v)
 
 ##Windows Users
 
-0. __Download .iso file from Dropbox__
+1. __Download .iso file from Dropbox__
 
-1. __Install VirtualBox__
+2. __Install VirtualBox__
   * https://www.virtualbox.org/wiki/Downloads
 
-2. __Create your virtual machine__
+3. __Create your virtual machine__
   * Open VirtualBox and click the "New" button
   * Enter any name
   * Select "Linux" as the type
@@ -90,5 +95,5 @@ application.
     file you downloaded and press start. You can then follow the Ubuntu
     installation instructions.
 
-3. __Setup Ubuntu__
+4. __Setup Ubuntu__
   * Now see the the installation instructions for Ubuntu Linux!
