@@ -1,4 +1,4 @@
-Website Localizaton
+Website Localization
 ====================
 
 ###Final Project
@@ -15,9 +15,9 @@ Requirements:
 If there's any setup to do to view the project (i.e. if you need to build the app), 
 include those instructions, system requirements here as well.
 
-2. Each group member must submit as assignemnt on Moodle for grading purposes
+2. Each group member must submit an assignment on Moodle for grading purposes
 
-3. Best practices must be followed re: indenetation, separating css, js into separate files etc.
+3. Best practices must be followed re: indentation, separating css, js into separate files etc.
 
 4. Must have an international aspect
 
@@ -27,6 +27,6 @@ Examples of possible final projects:
 
 * Internationalize and localize an open source ruby on rails app
 * Create a static webpage and localize it into several languages
-* Write a shell script to automate somthing tedious for localization purposes
+* Write a shell script to automate something tedious for localization purposes
 * Create an integration with Github and Transifex
 * Write a white paper detailing a good web app localization workflow
