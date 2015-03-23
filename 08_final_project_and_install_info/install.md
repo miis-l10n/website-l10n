@@ -52,7 +52,7 @@ application.
   * ```sudo apt-get install curl```
 
 4. __Install RVM__
-  * ```\curl -L https://get.rvm.io | bash -s stable --ruby```
+  * ```\curl -L https://get.rvm.io | bash -s stable --ruby --autolibs=enable --auto-dotfiles```
   * The backslash in font of "curl" is not a typo.
   *	Close and reopen terminal
 5. __Make sure the latest versions of RVM and Ruby were installed__
