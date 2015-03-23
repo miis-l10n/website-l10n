@@ -1,5 +1,23 @@
-Website Localization
+Install Fest
 ============================
+
+Rules:
+
+* If you get stuck, ask your teammates first. If they are lost too, post to the News Forum on Moodle
+* If you get ahead, help your classmates
+
+Example News Forum post:
+
+OS: Mac  
+Step 4  
+Output:  
+
+    nsuitter@nsuitter:~$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+    -e:67: warning: Insecure world writable dir /usr/local in PATH, mode 040777
+    -e:96: warning: Insecure world writable dir /usr/local in PATH, mode 040777
+    It appears Homebrew is already installed. If your intent is to reinstall you
+    should do the following before running this installer again:
+    rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
 
 #Install Ruby and Rails
 
