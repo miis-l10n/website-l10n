@@ -80,6 +80,7 @@ application.
 4. __Install RVM__
   * ```\curl -L https://get.rvm.io | bash -s stable --ruby --autolibs=enable --auto-dotfiles```
   * The backslash in font of "curl" is not a typo.
+  * If you get an error about GPG signature verification, run ``` gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3``` and rerun the rvm install command above
   *	Close and reopen terminal
 5. __Make sure the latest versions of RVM and Ruby were installed__
 	*	run the commands below:
